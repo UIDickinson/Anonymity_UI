@@ -1,0 +1,26 @@
+{
+  "name": "anonymity_ui",
+  "version": "1.1.4",
+  "description": "tea_protocol_oss",
+  "main": "index.js",
+  "scripts": {
+    "test": "double007"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/UIDickinson/Anonymity_UI"
+  },
+  "keywords": [
+    "Anonymous"
+  ],
+  "author": "Dickinson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UIDickinson/Anonymity_UI/issues"
+  },
+  "homepage": "https://github.com/UIDickinson/Anonymity_UI#readme",
+  "dependencies": {
+    "anonymity_ui": "^1.1.4"
+  },
+  "devDependencies": {}
+}
